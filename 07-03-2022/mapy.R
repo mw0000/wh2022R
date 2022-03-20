@@ -54,6 +54,11 @@ m
 
 m <- m %>% addMarkers(lng = tt$longitude, lat = tt$latitude)
 
+# error 
+# https://github.com/rstudio/leaflet/issues/782
+
+
+
 # teraz dodajmy do punktow popupy
 
 m <- m %>% addMarkers(lng = tt$longitude, lat = tt$latitude, popup=tt$text)
