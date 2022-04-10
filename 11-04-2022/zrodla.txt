@@ -1,0 +1,21 @@
+plik,zrodlo,temat,grupa
+10.txt,Dwutygodnik,"literatura, Lem",LITERATURA
+11.txt,Dwutygodnik,"literatura, klimat",LITERATURA
+12.txt,Dwutygodnik,"literatura, Ulisses",LITERATURA
+13.txt,Dwutygodnik,"literatura, recenzja",LITERATURA
+14.txt,Dwutygodnik,"literatura, recenzja",LITERATURA
+15.txt,Episkopat,"list pasterski, Jan Paweł II",RELIGIA
+16.txt,Episkopat,"list pasterski, Serce Jezusa",RELIGIA
+17.txt,Nasz Dziennik,"recenzja, Klątwa, teatr",TEATR
+18.txt,Blog1,"przepis, domowe sushi",JEDZENIE
+19.txt,Blog2,"zasady zdrowego odżywiania",JEDZENIE
+1.txt,Dwutygodnik,"Zachęta, sztuka, wystawa",SZTUKA
+20.txt,Blog3,"Python, programowanie, kurs",PROGRAMOWANIE
+2.txt,Dwutygodnik,"architektura, rozmowa",SZTUKA
+3.txt,Dwutygodnik,"wystawa, Dante",SZTUKA
+4.txt,Dwutygodnik,"sztuka, klimat",SZTUKA
+5.txt,Dwutygodnik,"sztuka, wystawa",SZTUKA
+6.txt,Dwutygodnik,"sztuka, Białystok",SZTUKA
+7.txt,Dwutygodnik,"sztuka, wystawa",SZTUKA
+8.txt,Dwutygodnik,"sztuka, wystawa",SZTUKA
+9.txt,Dwutygodnik,"literatura, klimat",LITERATURA
